@@ -1,0 +1,32 @@
+_repo: Az-egyszeri-kiralyfi-b-Mese-9-kepben-3-felvonasban_74063
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Szép, Ernő
+    alias: Szep, Erno
+    birthdate: 1884
+    deathdate: 1953
+    gutenberg_agent_id: '57281'
+    url: http://www.gutenberg.org/2009/agents/57281
+    wikipedia: https://hu.wikipedia.org/wiki/Sz%C3%A9p_Ern%C5%91
+description: ''
+gutenberg_issued: '2024-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74063'
+language: hu
+pgterms:marc905: 20240714095017szp
+pgterms:marc906: '1914'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bFranklin-Társulat, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Az egyszeri királyfi : $b Mese 9 képben, 3 felvonásban'
+url: http://www.gutenberg.org/ebooks/74063
